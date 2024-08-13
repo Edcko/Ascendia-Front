@@ -1,0 +1,19 @@
+:root {
+    --color-azul-claro: #F0FCFE;
+    --color-azul-pastel: #B7D9E2;
+    --color-azul-suave: #86B6C6;
+    --color-azul-medio: #5C93AA;
+    --color-azul-grisaceo: #3A728E;
+    --color-azul-oscuro: #1F5372;
+    --color-azul-profundo: #0C3756;
+    --color-negro: #000000;
+    --color-gris-oscuro: #333333;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: var(--color-azul-claro);
+    color: var(--color-gris-oscuro);
+  }
+  
